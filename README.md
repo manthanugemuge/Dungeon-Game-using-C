@@ -10,5 +10,5 @@ Dungeon Game Using Basic C  Language based on Direction decision making
 - Download or clone the repository Website : 
 
 ```
-https://manthanugemuge.github.io/StopWatch/
+https://github.com/ManthanUgemuge/Dungeon-Game-using-C.git
 ```
