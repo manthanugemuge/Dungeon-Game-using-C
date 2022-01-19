@@ -12,4 +12,3 @@ Dungeon Game Using Basic C  Language based on Direction decision making
 ```
 https://manthanugemuge.github.io/StopWatch/
 ```
-Run Directly - https://manthanugemuge.github.io/StopWatch/
