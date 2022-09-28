@@ -7,11 +7,12 @@ Dungeon Game Using Basic C Language based on Direction decision making.
 
 ## How to use Project
 
-- [Download](https://github.com/ManthanUgemuge/Dungeon-Game-using-C/archive/refs/heads/main.zip) or clone the repository Website : 
+- Download or clone the repository Website : 
 
 ```
 https://github.com/ManthanUgemuge/Dungeon-Game-using-C.git
 ```
+(https://github.com/ManthanUgemuge/Dungeon-Game-using-C/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
