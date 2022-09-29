@@ -12,7 +12,7 @@ Dungeon Game Using Basic C Language based on Direction decision making.
 ```
 https://github.com/ManthanUgemuge/dungeon-game-using-c.git
 ```
-(https://github.com/ManthanUgemuge/dungeon-game-using-c/archive/refs/heads/main.zip)
+[Download](https://github.com/ManthanUgemuge/dungeon-game-using-c/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
